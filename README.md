@@ -26,5 +26,5 @@ Currently, I’m seeking opportunities to **learn, build, and contribute** as I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongngodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 📫 **Let’s connect**:  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) ) 
+- [LinkedIn](https://www.linkedin.com/in/cuong-ngo-609a2b118/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
