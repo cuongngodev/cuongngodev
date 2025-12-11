@@ -20,8 +20,6 @@
 
 🔧 My main focus is **Backend Development**, but I'm also passionate about **data-driven apps**, **clean architecture**, and **modern UI/UX**
 
-🚀 Currently seeking opportunities to **learn, build, and contribute** as I prepare for a **Winter 2025 internship** in software development
-
 🌱 Currently exploring **AI/ML**, **LLMs**, **Prompt Engineering**, and building **full-stack AI applications**
 
 ---
