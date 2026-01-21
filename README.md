@@ -16,11 +16,18 @@
 
 🎯 Final-year **Computer Science student** at **John Abbott College** (Expected Graduation: **December 2026**)
 
-💡 I enjoy **turning ideas into applications** that are both **functional and user-friendly** — from backend APIs to interactive UIs
+I enjoy discovering how software works beyond the surface, I like building applications that are useful, and thoughtfully architected. Continuously learning, improving how I design systems. 
 
-🔧 My main focus is **Backend Development**, but I'm also passionate about **data-driven apps**, **clean architecture**, and **modern UI/UX**
-
-🌱 Currently exploring **AI/ML**, **LLMs**, **Prompt Engineering**, and building **full-stack AI applications**
+```javascript
+let cuongCook = {
+    currentFocus: ["AI & Machine Learning", "LLMs", "Prompt Engineering"],
+    experimenting: ["Chatbot Systems", "Full-Stack AI Apps"],
+    funFact: "Developer by day, student by night, French learner always — and a committed parent throughout it all. 💪",
+    superpower: "Balancing these worlds is not just my routine, it's my superpower! 🚀",
+    others: "If I’m not debugging code, you’ll most likely find me in the kitchen 🍳",
+    
+};
+```
 
 ---
 
@@ -30,47 +37,48 @@
 <tr>
 <td width="50%">
 
-### 💰 [HomeBudget WPF App](https://github.com/cuongngodev/HomeBudget)
-**Desktop Finance Tracker**  
-`C#` `WPF` `.NET` `MVP Pattern` `SQL Server`
+### 🌐 [ParliFacile](https://github.com/cuongngodev/parli)
+**Full-Stack Web Application**  
+`React` `Tailwind CSS` `Supabase` `RESTful API ` `MVC` `JWT` `Express` `LLM`
 
-📊 Track monthly expenses and visualize spending with interactive pie charts  
-✨ Clean MVP architecture with Entity Framework Core  
-🎨 Modern WPF UI with data binding
+Full-stack French learning app featuring AI translation, natural speech synthesis, multiple voice options, phrase extraction, and personalized audio library for users.
 
 </td>
 <td width="50%">
 
-### 📅 [Appointment Booking System](https://github.com/cuongngodev/appointment-booking)
+### 📅 [Appointment Booking System](https://github.com/cuongngodev/bookify)
 **Full-Stack Web Application**  
-`React` `Node.js` `Express` `PostgreSQL`
+`C#` `.NET` `Entity Framework` `Bootstrap` `Javascript`
 
+A complete appointment-booking platform, helping businesses manage their services, users, and appointments in one place.
 🔐 Session-based authentication system  
 👥 Service management and admin dashboard  
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🎬 [Film Search Page](https://github.com/cuongngodev/Film-Search-Page)
-**Movie Discovery App**  
-`HTML` `Javascript` `REST API`
-
-🔍 Search and discover movies with real-time API  
-
-</td>
 <td width="50%">
 
 ### 🎮 [Peekaboom Game](https://github.com/cuongngodev/Peekaboom-Game)
 **2D Puzzle Game**  
 `Game Development`
 
-🕹️ Interactive puzzle mechanics  
+🕹️ A fun and interactive browser-based racing game inspired by “Red Light, Green Light” from Squid Game 
+
+</td>
+<td width="50%">
+
+### 🎮 [MystiaJungle - 2D Game](https://github.com/JAC-CS-Game-Programming-F25/project-bigoldtrunks)
+**22D Action-Adventure Game**  
+`Region-based progression` `Factory Pattern` `State Machine` `OOP`
+
+🕹️ A Jumanji-inspired game built with JavaScript. Battle through regions using sword combat and elemental abilities to defeat creatures and bosses. Escape the mystical world by collecting the sacred key before running out of lives.. 
 
 </td>
 </tr>
+
 </table>
 
 <div align="center">
@@ -86,8 +94,6 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -103,12 +109,10 @@
 ### 📱 Mobile & Desktop
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -138,17 +142,6 @@
 </div>
 
 ---
-
-## 💡 What I'm Currently Learning
-
-```javascript
-const cuong = {
-    currentFocus: ["AI & Machine Learning", "LLMs", "Prompt Engineering"],
-    experimenting: ["Chatbot Systems", "Full-Stack AI Apps"],
-    funFact: "Developer by day, student by night, French learner always — and a committed parent throughout it all. 💪",
-    superpower: "Balancing these worlds is not just my routine, it's my superpower! 🚀"
-};
-```
 
 ---
 
