@@ -37,7 +37,7 @@ let cuongCook = {
 <tr>
 <td width="50%">
 
-### 🌐 [ParliFacile](https://github.com/cuongngodev/parli)
+### 🌐 [ParliFacile](https://parlifacile.onrender.com/)
 **Full-Stack Web Application**  
 `React` `Tailwind CSS` `Supabase` `RESTful API ` `MVC` `JWT` `Express` `LLM`
 
