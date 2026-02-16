@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Cuong Ngo
 
-### 💻 Computer Science Student | Full-Stack Developer | Problem Solver
+### 💻 Software Developer Intern
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cuongngodev.github.io-00d4ff?style=for-the-badge)](https://cuongngodev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cuong-ngo-609a2b118/)
@@ -130,17 +130,6 @@ A complete appointment-booking platform, helping businesses manage their service
 [📜 View All Certificates →](https://cuongngodev.github.io/#certificates)
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=cuongngodev&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ---
 
 ---
@@ -168,7 +157,5 @@ A complete appointment-booking platform, helping businesses manage their service
 ### 👨‍💻 Code • 🚀 Build • 📈 Learn • 🎯 Repeat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cuongngodev&color=00d4ff&style=for-the-badge)
-
-⭐ **Star my repositories if you find them interesting !**
 
 </div>
